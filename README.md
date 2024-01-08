@@ -1,1 +1,1 @@
-<h1 style="text-align: center;">Color Flipper</h1>
+<h1>Color Flipper</h1>
