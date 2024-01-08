@@ -1,6 +1,5 @@
 <h1>Color Flipper</h1>
-<!-- <img src="https://jmp.sh/s/3IO8J2KphTubgQexegcy" alt="short video to demonstrate project functionality" /> -->
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/3IO8J2KphTubgQexegcy" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNkOWcwYnNkeXNxeXlnM2U2Ynl1eDRtbDlqZ3lrZ3dlaHM4ZXVobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w5DWTpy5DJ2N0usZw9/source.gif" alt="short video to demonstrate project functionality" />
 <p>Project is created based on vanilla JS.</p>
 <p>In this project is using DOM API and Fetch API.</p>
 <p>DOM API helps to get and change the HTML structure of the project.</p>
