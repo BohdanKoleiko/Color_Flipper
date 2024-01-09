@@ -19,5 +19,4 @@
   <li>Fetch API</li>
 </ul>
 
-<p>DOM API helps to get and change the HTML structure of the project.</p>
-<p>Fetch API is used to retrieve needed information from the <a href="https://github.com/meodai/color-name-api?tab=readme-ov-file">Color Name</a> REST API.</p>
+<p>DOM API helps to get and change the HTML structure and Fetch API is used to retrieve needed information from the <a href="https://github.com/meodai/color-name-api?tab=readme-ov-file">Color Name</a> REST API.</p>
